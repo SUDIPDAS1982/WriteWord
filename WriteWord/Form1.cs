@@ -35,6 +35,7 @@ namespace WriteWord
 			pWordApp.Visible = true;
 			label1.Text = "Git";
             textBox1.Text = "SD";
+            checkBox1.Checked = true;
 		}
 
     }
