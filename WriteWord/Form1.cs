@@ -33,6 +33,7 @@ namespace WriteWord
 			pWordDoc = pWordApp.Documents.Add(ref pInfoSheetName, ref pMissing, ref pMissing, ref pMissing);			
 			pWordDoc.Bookmarks["bmrkName"].Range.Text = "My Name";
 			pWordApp.Visible = true;
+			label1.Text = "Git";
             textBox1.Text = "SD";
 		}
 
