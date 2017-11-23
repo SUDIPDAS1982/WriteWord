@@ -36,6 +36,9 @@ namespace WriteWord
 			label1.Text = "Git";
             textBox1.Text = "SD";
             checkBox1.Checked = true;
+			label2.Text = "GitHub";
+
+
             radioButton1.Checked = true;
             textBox2.Text = "AM";
 		}
