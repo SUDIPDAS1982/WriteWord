@@ -72,16 +72,7 @@
             this.checkBox1.Text = "Button Clicked";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
-            // label2
-			// 
-			this.label2.AutoSize = true;
-			this.label2.Location = new System.Drawing.Point(81, 281);
-			this.label2.Name = "label2";
-			this.label2.Size = new System.Drawing.Size(35, 13);
-			this.label2.TabIndex = 4;
-			this.label2.Text = "label2";
-			// 
-            // radioButton1
+           // radioButton1
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(84, 277);
