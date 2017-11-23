@@ -37,6 +37,7 @@ namespace WriteWord
             textBox1.Text = "SD";
             checkBox1.Checked = true;
             radioButton1.Checked = true;
+            textBox2.Text = "AM";
 		}
 
     }
