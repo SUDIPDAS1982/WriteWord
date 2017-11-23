@@ -38,6 +38,7 @@ namespace WriteWord
             checkBox1.Checked = true;
             radioButton1.Checked = true;
             textBox2.Text = "AM";
+            dateTimePicker1.Visible = true;
 		}
 
     }
